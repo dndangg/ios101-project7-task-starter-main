@@ -1,8 +1,8 @@
-# Project 7 - *Name of App Here*
+# Project 7 - *Task Creator*
 
 Submitted by: **Dylan Dang**
 
-**Name of your app** is an app that ... [TODO] 
+**Task Creator** is an app that allows users to create and manage task lists for organizational purposes.
 
 Time spent: **X** hours spent in total
 
@@ -10,11 +10,11 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] App displays a list of tasks
-- [ ] Users can add tasks to the list
-- [ ] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-  - [ ] Note: You have to quit the app, not minimize it, in order to see the persistence.
-- [ ] Tasks can be deleted
+- [x] App displays a list of tasks
+- [x] Users can add tasks to the list
+- [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
+  - [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
+- [x] Tasks can be deleted
 - [ ] Users have a calendar view via navigation controller that displays tasks	
 
 
