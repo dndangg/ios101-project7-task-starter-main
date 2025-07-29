@@ -4,7 +4,7 @@ Submitted by: **Dylan Dang**
 
 **Task Creator** is an app that allows users to create and manage task lists for organizational purposes.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
   - [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
 - [x] Tasks can be deleted
-- [ ] Users have a calendar view via navigation controller that displays tasks	
+- [x] Users have a calendar view via navigation controller that displays tasks	
 
 
 The following **additional** features are implemented:
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It took a minute for me to understand the tab bar.
 
 ## License
 
